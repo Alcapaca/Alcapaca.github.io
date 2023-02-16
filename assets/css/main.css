@@ -29,6 +29,7 @@ span{
 	font-size: 3rem;
 	align-items: center;
 }
+#contacting {display: flex;}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
