@@ -655,7 +655,6 @@ input, select, textarea {
 .contact-card {
   width: calc(50% - 20px);
   padding: 20px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
   margin-bottom: 20px;
 }
@@ -663,12 +662,16 @@ input, select, textarea {
 .contact-card h2 {
   font-size: 24px;
   margin-bottom: 10px;
+  opacity: 1;
 }
 
 .contact-card p {
   margin: 0;
   font-size: 16px;
+  opacity: 1;
 }
+
+
 /* Image */
 
 	.image {
