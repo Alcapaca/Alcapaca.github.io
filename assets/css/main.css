@@ -640,7 +640,32 @@ input, select, textarea {
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
+/* Contact */
+.contact-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
 
+.contact-card {
+  width: calc(50% - 20px);
+  padding: 20px;
+  background-color: #f0f0f0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.contact-card h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.contact-card p {
+  margin: 0;
+  font-size: 16px;
+}
 /* Image */
 
 	.image {
