@@ -671,6 +671,16 @@ input, select, textarea {
 
 }
 
+@media (max-width: 768px) {
+  .contact-row {
+    flex-direction: column;
+  }
+  
+  .contact-card {
+    width: 100%;
+  }
+}
+
 
 /* Image */
 
