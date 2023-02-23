@@ -654,7 +654,7 @@ input, select, textarea {
   width: calc(50% - 20px);
   padding: 20px;
   border-radius: 5px;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   background-color: rgba(255, 255, 255, 0.2);
   backdrop-filter: blur(10px);
 }
